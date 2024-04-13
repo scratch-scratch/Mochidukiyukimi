@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: yuki-tangolevel
+    name: saku.if-agent
     env: python
     region: Oregon
     plan: free
