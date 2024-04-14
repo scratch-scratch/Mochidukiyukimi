@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: saku.if-agent
+    name: goodbye-if
     env: python
     region: Oregon
     plan: free
