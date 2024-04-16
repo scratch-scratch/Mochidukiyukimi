@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: classroom.googlecontent
+    name: docs.google.kahoot
     env: python
     region: Oregon
     plan: free
