@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: 🤬🤬🤬🤬🤬
+    name: これは教育委員会が作りました
     env: python
     region: Oregon
     plan: free
