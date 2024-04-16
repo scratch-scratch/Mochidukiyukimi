@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: if-was-broken-by-me
+    name: if64.inetnf
     env: python
     region: Oregon
     plan: free
