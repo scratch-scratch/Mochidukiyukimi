@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: goodbye-if
+    name: if-was-broken-by-me
     env: python
     region: Oregon
     plan: free
