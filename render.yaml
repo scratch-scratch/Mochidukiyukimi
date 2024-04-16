@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: sites.google
+    name: okaitsu.pampan
     env: python
     region: Oregon
     plan: free
