@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: city.chiyoda
+    name: sites.google
     env: python
     region: Oregon
     plan: free
