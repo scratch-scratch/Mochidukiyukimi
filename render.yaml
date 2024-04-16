@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: docs.google.kahoot
+    name: city.chiyoda
     env: python
     region: Oregon
     plan: free
