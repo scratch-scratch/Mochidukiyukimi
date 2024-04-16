@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: okaitsu.pampan
+    name: Mochidukiyukimi-slim
     env: python
     region: Oregon
     plan: free
