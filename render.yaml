@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: nisimi-
+    name: warabimochi1
     env: python
     region: Oregon
     plan: free
