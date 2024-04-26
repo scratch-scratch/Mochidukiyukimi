@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: Mochidukiyukimi-slim
+    name: nisimi-
     env: python
     region: Oregon
     plan: free
