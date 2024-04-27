@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: plasmaru77777
+    name: digitalartscloud.com
     env: python
     region: Oregon
     plan: free
