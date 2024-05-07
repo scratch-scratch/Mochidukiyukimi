@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: digitalartscloud.com
+    name: manage.digitalartscloud
     env: python
     region: Oregon
     plan: free
