@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: manage.digitalartscloud
+    name: jaiwuye
     env: python
     region: Oregon
     plan: free
